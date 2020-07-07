@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-04T19:37:40 IST" name="Default suite" finished-at="2020-07-04T19:37:40 IST" duration-ms="116">
+    <groups>
+    </groups>
+    <test started-at="2020-07-04T19:37:40 IST" name="Default test" finished-at="2020-07-04T19:37:40 IST" duration-ms="116">
+      <class name="com.test.InvocationCountTest">
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sum()[pri:0, instance:com.test.InvocationCountTest@2e005c4b]" started-at="2020-07-04T19:37:40 IST" name="sum" finished-at="2020-07-04T19:37:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.test.InvocationCountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

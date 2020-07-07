@@ -1,0 +1,32 @@
+TestNG --- Unit Testing Framework. (Used by developers) or JUnit.
+           TDD Framework (Test Driven Development).
+           Open Source (Free)
+           Even Automation engineers also use it.
+       --- TDD Framework. Test Driven Development.
+       --- along with development, design test cases simultaneously.
+
+TestNG/JUnit - Developers and Automation Testers write unit test cases, and other test cases in a systematic way. For Java Only.
+open source.
+available in the form of JAR files.
+It is called Java unit testing framework. (only avaliable for Java)
+PHPUnit for PHP.
+TestNG and Junit --- Both are Java testing framework.
+Purpose --- 
+Design test cases in a systematic way.
+It generates very good html reports.
+It gives lots of different annotations.
+Define priority or sequence of test cases can be maintened in TestNG..
+Dependency feature. one test case is dependent upon another test case.
+Grouping also possible.
+Data provider - execute same test case multiple times with diff set of data.
+
+install TestNG in eclipse.
+http://beust.com/eclipse/	
+
+We don't need main method to execute our class in TestNG. TestNG will automatically execute our class. So Don't write main() method inside TestNG.
+Project then Package then Class
+Same Java Code we have to write inside TestNG.
+TestNG provides some other features like annotaion.
+Annotaion should be associated with a method.
+You can give priority to your test cases. If the test case priority is 1 , then that test case will be executed 1st.
+You can group your test case, many test cases will be under Title, other test cases will be under Logo etc.
